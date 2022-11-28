@@ -1,0 +1,6 @@
+db:
+    host: 'input.host.name'
+    username: 'inputName'
+    password: 'inputPassword'
+    synchronize: true
+    logging: true
